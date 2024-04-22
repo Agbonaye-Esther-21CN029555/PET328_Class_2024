@@ -14,3 +14,4 @@ def classify_block(i, j, nx, ny):
         block_cat = 'I'
         
     return block_cat
+    return classify_block
